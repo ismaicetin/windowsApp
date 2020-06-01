@@ -1,0 +1,37 @@
+.showreport .nav-tabs {
+    color: black;
+ font-weight: bold;
+ cursor: pointer;
+
+
+
+
+}
+
+.showreport .nav-tabs .nav-item{
+    margin-bottom: -2px;
+}
+
+.showreport .nav-link {
+   background:    #f6f7fb;
+    text-transform: uppercase;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 18px;
+
+
+}
+.showreport .nav-link:hover {
+ 
+    color: #4466f2!important;
+ 
+ }
+
+ .showreport .nav-link.active {
+ 
+    color: #4466f2!important;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    box-shadow: inset 0 3px 0 #4466f2;
+}
